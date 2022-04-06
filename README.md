@@ -2,7 +2,7 @@
 
 I'm a postdoctoral fellow at Universidad Adolfo Ibáñez, Santiago Chile 🇨🇱. I have a PhD in Engineering Sciences (2017-2021).
 
-My research interest include:
+My research interests include:
 - Physics-Informed Neural Networks 
 - Uncertainty Quantification
 - Iterative Solvers
