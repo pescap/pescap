@@ -1,6 +1,6 @@
 ## Paul Escapil-Inchauspé's GitHub 👋
 
-I'm a postdoctoral fellow at Universidad Adolfo Ibáñez, Santiago Chile 🇨🇱. I have a PhD in Engineering Sciences (2017-2021).
+PhD in Engineering Sciences (2017-2021). I'm currently a postdoctoral fellow at Universidad Adolfo Ibáñez, Santiago Chile 🇨🇱.
 
 My research interests include Physics-Informed Neural Networks (PINNs), Uncertainty Quantification (UQ), Iterative Solvers, and Finite (resp. Boundary) Element Methods. 
 
