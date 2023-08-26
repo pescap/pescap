@@ -1,4 +1,4 @@
-## Paul Escapil-Inchauspé's GitHub 👋🇫🇷 
+## Paul Escapil-Inchauspé's GitHub 👋 🇫🇷 
 
 PhD in Engineering Sciences (2017-2021). Postdoc at UAI (2021-2023) 🇨🇱. 
 I am working at Data Obervatory as a Data Science Engineer and Associate Researcher.
