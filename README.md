@@ -2,7 +2,13 @@
 
 PhD in Engineering Sciences (2017-2021). Postdoc at UAI (2021-2023) 🇨🇱. I am working at Data Obervatory as a Data Science Engineer and Associate Researcher. 
 
-My research interests include Physics-Informed Neural Networks (PINNs), Uncertainty Quantification (UQ), Iterative Solvers, and Finite (resp. Boundary) Element Methods. 
+My research interests include:
+- High Performance Computing
+- Physics-Informed Neural Networks (PINNs);
+- Operator Learning;
+- Uncertainty Quantification (UQ);
+- Iterative Solvers;
+- Finite and Boundary Element Methods.
 
 <!--
 **pescap/pescap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
