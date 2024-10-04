@@ -1,12 +1,8 @@
-## Paul Escapil-Inchauspé's GitHub 👋 🇫🇷 
-
-PhD in Engineering Sciences (2017-2021). Postdoc at UAI (2021-2023) 🇨🇱. 
-
-I am working at Data Obervatory as a Data Science Engineer and Associate Researcher.
+## Paul Escapil-Inchauspé's GitHub 👋
 
 My research interests include:
-- High Performance Computing
-- Physics-Informed Neural Networks (PINNs);
+- High Performance Computing;
+- Scientific Machine Learning;
 - Operator Learning;
 - Uncertainty Quantification (UQ);
 - Iterative Solvers;
